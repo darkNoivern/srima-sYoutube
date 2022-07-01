@@ -1,0 +1,18 @@
+.hero-text{
+    font-size: 2rem;
+    min-height: 25rem;
+    line-height: 120%;
+    /* if not tilt */
+}
+
+.heropage{
+    width: 90%;
+}
+
+.hero-img{
+    height: 100%;
+    width: 100%;
+    max-height: 25rem;
+    max-width: 25rem;
+    border-radius: 50%;
+}
